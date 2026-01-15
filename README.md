@@ -30,7 +30,7 @@ You have **60 minutes** to complete all tasks. Good luck!
    - Saves the updated data as `sales_with_revenue.csv`
    - Creates a simple bar plot of `product` vs `revenue` and saves it as `revenue_plot.png`
 4. **Run your script** to generate the output files.
-5. **Commit and push** these **three files** to your fork **before the 1-hour deadline**:
+5. **Deliverables** (Must Be in Your Fork by Deadline):
    - `run_analysis.py`
    - `sales_with_revenue.csv`
    - `revenue_plot.png`
